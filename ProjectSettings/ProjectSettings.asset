@@ -551,11 +551,11 @@ PlayerSettings:
   m_MobileRenderingPath: 1
   metroPackageName: HoloLens-origin-sample
   metroPackageVersion: 1.0.0.0
-  metroCertificatePath: 
+  metroCertificatePath: D:\devel\HoloLens-origin-sample\Assets\WSATestCertificate.pfx
   metroCertificatePassword: 
-  metroCertificateSubject: 
-  metroCertificateIssuer: 
-  metroCertificateNotAfter: 0000000000000000
+  metroCertificateSubject: DefaultCompany
+  metroCertificateIssuer: DefaultCompany
+  metroCertificateNotAfter: 80763dceb27ed401
   metroApplicationDescription: HoloLens-origin-sample
   wsaImages: {}
   metroTileShortName: 
@@ -655,7 +655,7 @@ PlayerSettings:
       daydreamIconBackground: {fileID: 0}
   cloudServicesEnabled: {}
   facebookSdkVersion: 7.9.4
-  apiCompatibilityLevel: 2
+  apiCompatibilityLevel: 3
   cloudProjectId: 
   projectName: 
   organizationId: 
